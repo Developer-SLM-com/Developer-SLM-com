@@ -3,9 +3,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt=" My Text" src="Images/Image1.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="Images/Image1.svg">
+ <source media="(prefers-color-scheme: light)" srcset="Images/Image1.svg">
+ <img alt=" My Profile Text" src="Images/Image1.svg">
 </picture>
 
 
