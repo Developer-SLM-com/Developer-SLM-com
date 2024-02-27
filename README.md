@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on updating my skills for NET 8, EF 8, Razor/Blazor, and SQL Server.
+- 🌱 I’m currently learning NET 8, EF 8, and Razor/Blazzor.
+- 👯 I’m looking to collaborate on a new application implementation with NET 8, EF 8, and Razor/Blazor.
+- 🤔 I’m looking for help with upgrading my NET 8 skills.  Mine are a little stale.
+- 💬 Ask me about my retirement.
+- 📫 How to reach me: smatzen@slm.com or 813.469.8824
+- ⚡ Fun fact: I wrote my first program in the fall of 1967.
 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Images/Image1.svg">
- <source media="(prefers-color-scheme: light)" srcset="Images/Image1.svg">
- <img alt=" My Profile Text" src="Images/Image1.svg">
-</picture>
 
 
 <!--
